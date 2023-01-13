@@ -21,6 +21,14 @@
   },
   "homepage": "https://github.com/anassbuk/typeScript#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.4",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.32.0",
+    "prettier": "^2.8.2",
     "typescript": "^4.9.4"
   }
 }
