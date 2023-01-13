@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Mainzsweeper game",
+  "main": "jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anassbuk/typeScript.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Anass Fathallah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anassbuk/typeScript/issues"
+  },
+  "homepage": "https://github.com/anassbuk/typeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
