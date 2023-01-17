@@ -8,3 +8,4 @@ var user = {
     age: 16,
     isAdmin: true
 };
+
